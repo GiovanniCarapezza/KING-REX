@@ -15,7 +15,7 @@ Folder 5 contains scripts and data of section "KING-REX limits of detection in g
 Folder 6 contains scripts and data of section "KING-REX performance with degraded RNA"
 
 
-The other folders  and files (see below) contain raw data and annotation data needed for scripts of folders 1-6:
+The other folders  and files (see below) contain raw data and annotation data required for scripts of folders 1-6:
 annotations_KING-REX.txt
 annotations_Transcriptome.txt
 Raw_counts1,Raw_counts2 and Raw_counts3 must be unzipped. They contain:
